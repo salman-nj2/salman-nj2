@@ -1,6 +1,6 @@
 <p align="center"> <img src = "https://images.unsplash.com/photo-1587620962725-abab7fe55159?ixid=MnwxMjA3fDB8MHxzZWFyY2h8MXx8cHJvZ3JhbW1pbmd8ZW58MHx8MHx8&ixlib=rb-1.2.1&w=1000&q=80" width="60%" height = "300px" /></p>
 <h1 align="center">Hi 👋, I'm Salman Shaikh</h1>
-<h3 align="center">A passionate full Stack Web Developer from India</h3>
+<h3 align="center">A passionate full Stack Web Developer</h3>
 
 - 🌱 I’m currently learning **MERN Stack Web Development**
 
