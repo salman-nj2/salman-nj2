@@ -4,7 +4,7 @@
 
 - 🌱 I’m currently learning **MERN Stack Web Development**
 
-- 👨‍💻 All of my projects are available at [https://salmanshaikh.vercel.app/](https://salmanshaikh.vercel.app/)
+- 👨‍💻 Checkout my Portfolio. [https://salmanshaikh.vercel.app/](https://salmanshaikh.vercel.app/)
 
 - 📫 How to reach me **salman8844sk@gmail.com**
 
