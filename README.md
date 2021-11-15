@@ -1,5 +1,5 @@
 <p align="center"> <img src = "https://www.wallpapertip.com/wmimgs/250-2504846_a-two-display-workspace-with-lines-of-code.jpg" width="60%" height = "300px" /></p>
-<h1 align="center">Hi 👋, I'm </h1>
+<h1 align="center">Hi 👋, I'm Salman Shaikh</h1>
 <h3 align="center">A passionate full Stack Web Developer from India</h3>
 
 - 🌱 I’m currently learning **MERN Stack Web Development**
