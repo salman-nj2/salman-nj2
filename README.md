@@ -1,4 +1,4 @@
-<p align="center"> <img src = "https://www.wallpapertip.com/wmimgs/250-2504846_a-two-display-workspace-with-lines-of-code.jpg" width="60%" height = "300px" /></p>
+<p align="center"> <img src = "https://images.pexels.com/photos/943096/pexels-photo-943096.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500" width="60%" height = "300px" /></p>
 <h1 align="center">Hi 👋, I'm Salman Shaikh</h1>
 <h3 align="center">A passionate full Stack Web Developer from India</h3>
 
